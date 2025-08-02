@@ -1,0 +1,220 @@
+{
+  "pageProps": {
+    "filters": {
+      "list": [
+        { "type": 1, "value": 224 },
+        { "type": 21, "value": 0 },
+        { "type": 50, "value": 0 }
+      ]
+    },
+    "isMobile": false,
+    "pageConfig": {
+      "seoData": {},
+      "tpv": "General-NoFilter-0",
+      "hasMore": true,
+      "nextOffset": "0-0-16-16",
+      "bookList": {
+        "books": [
+          {
+            "id": 9856,
+            "title": "راهنمای زبان جسم",
+            "sourceBookId": 0,
+            "index": true,
+            "hasPhysicalEdition": false,
+            "PublisherID": 3700,
+            "authors": [
+              {
+                "id": 1762,
+                "firstName": "فرید",
+                "lastName": "یاسمین",
+                "type": 1,
+                "slug": "author/فرید-یاسمین"
+              }
+            ],
+            "beforeOffPrice": 0,
+            "canonicalId": 0,
+            "coverUri": "https://img.taaghche.com/frontCover/9856.jpg",
+            "currencyBeforeOffPrice": 0,
+            "currencyPrice": 0,
+            "destination": 0,
+            "encrypted": true,
+            "isEpub": true,
+            "isRtl": true,
+            "labels": [],
+            "lastUpdate": "2024-01-02T23:55:08.753",
+            "numberOfPages": 95,
+            "price": 0,
+            "publishDate": "1390/03/01",
+            "publisher": "سنجاق",
+            "publisherShouldIndex": true,
+            "publisherSlug": "سنجاق",
+            "rateCounts": 98,
+            "rates": [
+              { "value": 1, "count": 35 },
+              { "value": 2, "count": 11 },
+              { "value": 3, "count": 10 },
+              { "value": 4, "count": 8 },
+              { "value": 5, "count": 34 }
+            ],
+            "rating": 2.94897959183674,
+            "shareText": "«راهنمای زبان جسم» را از طاقچه دریافت کنید\nhttps://taaghche.com/book/9856",
+            "showOverlay": true,
+            "state": 1,
+            "sticker": "https://img.taaghche.com/sticker/freebook.png",
+            "subscriptionAvailable": false,
+            "sumDurationSeconds": 0,
+            "type": "Text",
+            "types": [
+              {
+                "id": 1,
+                "name": "الکترونیکی",
+                "price": 0,
+                "beforeOffPrice": 0
+              }
+            ]
+          },
+          {
+            "id": 87012,
+            "title": "چگونه کمال‌گرا نباشیم؟",
+            "subtitle": "راهی جدید به سوی خودباوری، زندگی بدون ترس و رهایی از کمال‌گرایی",
+            "sourceBookId": 0,
+            "index": true,
+            "hasPhysicalEdition": false,
+            "PublisherID": 260,
+            "authors": [
+              {
+                "id": 21751,
+                "firstName": "استفان",
+                "lastName": "گایز",
+                "type": 1,
+                "slug": "author/استفان-گایز"
+              },
+              {
+                "id": 28936,
+                "firstName": "نرگس",
+                "lastName": "محمدی",
+                "type": 2,
+                "slug": "author/نرگس-محمدی"
+              }
+            ],
+            "beforeOffPrice": 0,
+            "canonicalId": 0,
+            "coverUri": "https://img.taaghche.com/frontCover/87012.jpg",
+            "currencyBeforeOffPrice": 0,
+            "currencyPrice": 4.99,
+            "destination": 0,
+            "encrypted": true,
+            "isEpub": true,
+            "isRtl": true,
+            "labels": [],
+            "lastUpdate": "2023-09-10T15:27:44.54",
+            "numberOfPages": 244,
+            "price": 50000,
+            "publishDate": "1396/11/06",
+            "publisher": "انتشارات شمشاد",
+            "publisherShouldIndex": true,
+            "publisherSlug": "انتشارات-شمشاد",
+            "rateCounts": 1454,
+            "rates": [
+              { "value": 1, "count": 209 },
+              { "value": 2, "count": 106 },
+              { "value": 3, "count": 103 },
+              { "value": 4, "count": 181 },
+              { "value": 5, "count": 855 }
+            ],
+            "rating": 3.94016506189821,
+            "shareText": "«چگونه کمال‌گرا نباشیم؟» را از طاقچه دریافت کنید\nhttps://taaghche.com/book/87012",
+            "showOverlay": true,
+            "state": 1,
+            "sticker": "https://img.taaghche.com/sticker/binahayat.png",
+            "subscriptionAvailable": true,
+            "sumDurationSeconds": 0,
+            "type": "Text",
+            "types": [
+              {
+                "id": 1,
+                "name": "الکترونیکی",
+                "price": 50000,
+                "beforeOffPrice": 0
+              }
+            ]
+          },
+          {
+            "id": 74812,
+            "title": "انسان در جست‌وجوی معنا",
+            "sourceBookId": 0,
+            "index": true,
+            "hasPhysicalEdition": false,
+            "PublisherID": 260,
+            "authors": [
+              {
+                "id": 1414,
+                "firstName": "ویکتور",
+                "lastName": "فرانکل",
+                "type": 1,
+                "slug": "author/ویکتور-فرانکل"
+              },
+              {
+                "id": 27222,
+                "firstName": "علیرضا",
+                "lastName": "ارجاع",
+                "type": 2,
+                "slug": "author/علیرضا-ارجاع"
+              }
+            ],
+            "beforeOffPrice": 0,
+            "canonicalId": 4206,
+            "coverUri": "https://img.taaghche.com/frontCover/74812.jpg",
+            "currencyBeforeOffPrice": 0,
+            "currencyPrice": 4.99,
+            "destination": 0,
+            "encrypted": true,
+            "isEpub": true,
+            "isRtl": true,
+            "labels": [
+              {
+                "tagID": 3288,
+                "tag": "مجموعه کتاب باز",
+                "slug": "مجموعه-کتاب-باز",
+                "shouldIndex": true
+              }
+            ],
+            "lastUpdate": "2025-06-23T10:47:25.937",
+            "numberOfPages": 155,
+            "physicalBeforeOffPrice": 120000,
+            "price": 40000,
+            "publishDate": "1399/04/16",
+            "publisher": "انتشارات شمشاد",
+            "publisherShouldIndex": true,
+            "publisherSlug": "انتشارات-شمشاد",
+            "rateCounts": 1075,
+            "rates": [
+              { "value": 1, "count": 125 },
+              { "value": 2, "count": 79 },
+              { "value": 3, "count": 97 },
+              { "value": 4, "count": 150 },
+              { "value": 5, "count": 624 }
+            ],
+            "rating": 3.99441860465116,
+            "shareText": "«انسان در جست‌وجوی معنا» را از طاقچه دریافت کنید\nhttps://taaghche.com/book/74812",
+            "showOverlay": true,
+            "state": 1,
+            "sticker": "https://img.taaghche.com/sticker/binahayat.png",
+            "subscriptionAvailable": true,
+            "sumDurationSeconds": 0,
+            "type": "Text",
+            "types": [
+              {
+                "id": 1,
+                "name": "الکترونیکی",
+                "price": 40000,
+                "beforeOffPrice": 0
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "__N_SSP": true
+}
